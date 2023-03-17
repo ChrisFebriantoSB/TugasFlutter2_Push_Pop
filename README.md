@@ -1,7 +1,10 @@
-# tugas2pbb
+# Project Kuliah 2
 
-A new Flutter project.
-# TugasFlutter2
-# TugasFlutter2
-# TugasFlutter2
-# TugasFlutter2-Push-Pop
+Ini Adalah Project Flutter untuk perkuliahan Pemograman Bergerak dan ini adalah salah satu tugas pertama yang diberikan yang berisikan tentang Project Flutter yang terdiri dari Push Dan P .
+
+Nama : Chris Febrianto SB
+
+NIM : 2009116062
+
+Kelas : Sistem Informasi B 2020
+
